@@ -1,0 +1,4 @@
+author: GameCodeProgrammer
+main: group.minecraft.rots.Plugin
+name: Revenge of the snowball
+version: ${version}
